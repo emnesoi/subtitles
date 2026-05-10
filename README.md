@@ -1,0 +1,1 @@
+i aim to create high-quality subtitles for english-language shows that do not have them. these subtitles are intended for hearing people with audio processing issues, or as an aid to streaming on connections which handle audio poorly.
