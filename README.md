@@ -1,1 +1,1 @@
-i aim to create high-quality subtitles for english-language media that do not have them. these subtitles are intended for hearing people with audio processing issues, or as an aid to streaming on connections which handle audio poorly.
+i aim to create high-quality subtitles (or fitting my own personal standards, anyway) for english-language works that do not have them. these subtitles are intended for hearing people with audio processing issues, or as an aid to streaming on connections which handle audio poorly.
